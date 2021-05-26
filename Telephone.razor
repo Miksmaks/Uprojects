@@ -1,0 +1,52 @@
+﻿@page "/telephone"
+
+@using BlazorConnections;
+<style>
+    * {
+        box-sizing: border-box;
+    }
+
+    html, body {
+        margin: 0;
+        padding: 0;
+    }
+
+    .grid-container {
+        height: 100vh;
+        display: grid;
+        grid-template-areas: "header header"
+            "side content";
+        grid-template-columns: 400px 1fr;
+        grid-template-rows: 50px 1fr 100px;
+    }
+
+    .header {
+        grid-area: header;
+        background-color: #4682B4;
+    }
+
+    .side {
+        grid-area: side;
+        background-color: #DCDCDC;
+    }
+
+    .content {
+        grid-area: content;
+        background-color: #FFFFFF;
+    }
+</style>
+
+
+<div class="grid-container">
+    <div class="header">
+    </div>
+    <div class="side"></div>
+    <div class="content"></div>
+</div>
+
+@code
+{
+}
+
+
+
