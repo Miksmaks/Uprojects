@@ -1,0 +1,12 @@
+C:\Users\Miksmaks\source\repos\SQL PROJECT1\SQLConnections\bin\Debug\netcoreapp3.1\SQL_PROJECT1.SQLConnections.deps.json
+C:\Users\Miksmaks\source\repos\SQL PROJECT1\SQLConnections\bin\Debug\netcoreapp3.1\SQL_PROJECT1.SQLConnections.runtimeconfig.json
+C:\Users\Miksmaks\source\repos\SQL PROJECT1\SQLConnections\bin\Debug\netcoreapp3.1\SQL_PROJECT1.SQLConnections.runtimeconfig.dev.json
+C:\Users\Miksmaks\source\repos\SQL PROJECT1\SQLConnections\bin\Debug\netcoreapp3.1\SQL_PROJECT1.SQLConnections.dll
+C:\Users\Miksmaks\source\repos\SQL PROJECT1\SQLConnections\bin\Debug\netcoreapp3.1\SQL_PROJECT1.SQLConnections.pdb
+C:\Users\Miksmaks\source\repos\SQL PROJECT1\SQLConnections\obj\Debug\netcoreapp3.1\SQL_PROJECT1.SQLConnections.csprojAssemblyReference.cache
+C:\Users\Miksmaks\source\repos\SQL PROJECT1\SQLConnections\obj\Debug\netcoreapp3.1\SQL_PROJECT1.SQLConnections.AssemblyInfoInputs.cache
+C:\Users\Miksmaks\source\repos\SQL PROJECT1\SQLConnections\obj\Debug\netcoreapp3.1\SQL_PROJECT1.SQLConnections.AssemblyInfo.cs
+C:\Users\Miksmaks\source\repos\SQL PROJECT1\SQLConnections\obj\Debug\netcoreapp3.1\SQL_PROJECT1.SQLConnections.csproj.CoreCompileInputs.cache
+C:\Users\Miksmaks\source\repos\SQL PROJECT1\SQLConnections\obj\Debug\netcoreapp3.1\SQL_PROJECT1.SQLConnections.dll
+C:\Users\Miksmaks\source\repos\SQL PROJECT1\SQLConnections\obj\Debug\netcoreapp3.1\SQL_PROJECT1.SQLConnections.pdb
+C:\Users\Miksmaks\source\repos\SQL PROJECT1\SQLConnections\obj\Debug\netcoreapp3.1\SQL_PROJECT1.SQLConnections.genruntimeconfig.cache
